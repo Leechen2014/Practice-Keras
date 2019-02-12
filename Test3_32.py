@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# @File  : Test_3_31.py
+# @File  : Test3_31.py
 # @Author: lizhen
 # @Date  : 2019/2/11
 # @Desc  : sample cifar10
